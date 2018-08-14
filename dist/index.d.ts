@@ -1,2 +1,1 @@
-declare let is: (a: any, b: any) => boolean;
-export { is };
+export declare const is: (value1: any, value2: any) => boolean;
